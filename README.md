@@ -1,0 +1,2 @@
+# DataMining
+These are assignments
